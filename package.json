@@ -10,6 +10,7 @@
     "strapi": "strapi"
   },
   "dependencies": {
+    "pm2": "^4.5.6",
     "strapi": "3.6.8",
     "strapi-admin": "3.6.8",
     "strapi-connector-mongoose": "3.6.8",
